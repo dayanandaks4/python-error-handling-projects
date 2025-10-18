@@ -1,6 +1,0 @@
-1.py
-2.py
-4.py
-# Ignore all .py files except calculator.py
-*.py
-!calculator.py
