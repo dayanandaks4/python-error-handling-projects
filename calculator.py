@@ -1,3 +1,4 @@
+# Simple Calculator:
 print("Welcome to calculator:")
 print("Addition  => 1")
 print("Subtraction => 2")
