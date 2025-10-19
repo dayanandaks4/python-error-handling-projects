@@ -6,7 +6,7 @@ print("Multiplication => 3")
 print("Division => 4")
 print("Power => 5")
 print("Exit => 6")
-print("<=========================>")
+print("<========================>")
 
 available_data = [1, 2, 3, 4, 5, 6]
 
